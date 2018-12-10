@@ -24,4 +24,5 @@ python3 main.py --policy_name tf_DDPG
 # Eager Mode + defun
 python3 main.py --policy_name tf_DDPG_fast
 
+tensorboard --logdir ./output
 ```
